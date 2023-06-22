@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81459945702",
+    "project_id": "love-bond-220de",
+    "storage_bucket": "love-bond-220de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81459945702:android:a664c650636b1eef50db27",
+        "android_client_info": {
+          "package_name": "com.close.lovebond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81459945702-ldkptd0ai8e1474aptkebfvsh8gr3i89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF0lAHpBc_f_BFSOml-gGrZXw034NCsec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81459945702-ldkptd0ai8e1474aptkebfvsh8gr3i89.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
